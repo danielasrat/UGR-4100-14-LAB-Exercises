@@ -1,0 +1,45 @@
+ @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Scaffold(
+        body: Row(
+          children: [
+            Expanded(
+              child: Column(
+                children: [
+                  Image.asset('assets/burger.jpg'),
+                ],
+              ),
+            ),
+            const Expanded(
+              child: Column(
+                children: [
+                  Row(
+                    children: [
+                      Text(
+                        'Robert Steven',
+                        style: TextStyle(
+                          fontSize: 40,
+                        ),
+                      ),
+                    ],
+                  ),
+                  Row(
+                    children: [Icon(Icons.directions_car)],
+                  )
+                ],
+              ),
+            ),
+            Expanded(
+              child: Column(
+                children: [
+                  Image.asset('assets/burger.jpg'),
+                ],
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
