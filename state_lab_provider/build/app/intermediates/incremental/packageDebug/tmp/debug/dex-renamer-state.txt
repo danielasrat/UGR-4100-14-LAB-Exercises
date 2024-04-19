@@ -1,0 +1,4 @@
+#Fri Apr 19 16:00:42 EAT 2024
+base.0=C\:\\Users\\dell\\Desktop\\Lab\\UGR-4100-14-LAB-Exercises\\States_Lab\\state_lab_provider\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

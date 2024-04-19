@@ -1,0 +1,1 @@
+ C:\\Users\\dell\\Desktop\\Lab\\UGR-4100-14-LAB-Exercises\\States_Lab\\state_lab_provider\\.dart_tool\\flutter_build\\171bdeff1aeeefcb0603ef633e40580d\\native_assets.yaml: 
